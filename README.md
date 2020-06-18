@@ -1,3 +1,6 @@
+## Description
+Simple project testing responsive state changing among components, with Redux.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
